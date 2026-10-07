@@ -5,6 +5,9 @@ slate-blue accents and icy cyan highlights.
 
 ![Preview](backgrounds/mountain-landscape.jpg)
 
+> A copy of [Davedes83's Mountain Landscape](https://github.com/Davedes83/omarchy-mountain-landscape-theme),
+> re-exported as an installable repo. Not original work — see [Credits and license](#credits-and-license).
+
 ## Install
 
 ```bash
@@ -85,10 +88,21 @@ configs (`alacritty.toml`, `foot.ini`, `ghostty.conf`, `kitty.conf`,
 `vscode.json`) are not part of this repository; they are generated locally from
 `colors.toml` when the theme is applied.
 
-## Credits
+## Credits and license
 
-This is a copy of **Mountain Landscape** by
-[Davedes83](https://github.com/Davedes83/omarchy-mountain-landscape-theme),
-re-exported from an installed Omarchy system so it can also be installed from
-this repository. Palette and wallpapers come from the original project, which
-carries no license file.
+**Mountain Landscape** is the work of
+[Davedes83](https://github.com/Davedes83/omarchy-mountain-landscape-theme).
+This repository is a copy of that theme, re-exported from an installed Omarchy
+system so it can also be installed from here.
+
+The upstream project ships **no license file**, so no license is granted for its
+contents: the palette, the wallpapers, `icons.theme` and everything derived from
+`colors.toml` belong to their authors, and this repository grants no rights to
+them beyond what GitHub's own terms already allow for public repositories
+(viewing and forking on GitHub). The wallpapers in particular are third-party
+images and may carry terms of their own.
+
+The only work original to this repository is the README and the export itself;
+there is nothing here to place under MIT or any other license. If you want to
+reuse the theme outside GitHub, ask the original author first. If a license
+appears upstream, this notice will be updated to match it.
